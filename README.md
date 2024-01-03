@@ -1,6 +1,6 @@
 # StakingDapp - Smart Contract & DApp Instructions
 
-Welcome to the StakingDappYT project! This repository contains instructions for interacting with the smart contracts and deploying the DApp.
+Welcome to the StakingDapp project! This repository contains instructions for interacting with the smart contracts and deploying the DApp.
 
 ## Overview of Staking DApp
 
